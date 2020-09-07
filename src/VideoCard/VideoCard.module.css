@@ -1,0 +1,21 @@
+.VideoCard {
+    width: calc(25% - 16px);
+    border-radius: 6px;
+    box-shadow: 2px 2px 4px #ccc;
+    margin: 8px;
+    text-decoration: none;
+}
+
+.Thumbnail {
+    width: 100%;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+
+.Title {
+    margin: 0;
+    font-size: 13px;
+    letter-spacing: 1px;
+    color: rgba(0, 0, 0, 0.8);
+    padding: 1rem;
+}
